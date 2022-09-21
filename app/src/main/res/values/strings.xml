@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Hello Constraints</string>
+    <string name="button_label_toast">Say Hello</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Hello Toast!</string>
+    <string name="button_zero">Zero</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="secondapp">secondApp</string>
+    <string name="thirdapp">thirdApp</string>
+    <string name="firstapp">firstApp</string>
+    <string name="article_title">Тайна бездны Челленджера</string>
+    <string name="edittext_uri">http://developer.android.com</string>
+    <string name="button_uri">Open Website</string>
+
+    <string name="edittext_loc">Golden Gate Bridge</string>
+    <string name="button_loc">Open Location</string>
+
+    <string name="edittext_share">\'Twas brillig and the slithy toves</string>
+    <string name="button_share">Share This Text</string>
+    <string name="share_text_with">Share this text with:</string>
+
+    <string name="article_subtitle">Что обнаружили учёные на дне самой глубокой точки земного океана: Тайна бездны Челленджера</string>
+
+    <string name="article_text">
+        В западной части Тихого океана, на равном расстоянии от изгиба, что образуют острова Японии, Филиппин и Новой Гвинеи, расположено самое глубокое место Мирового океана. Его именуют Марианской впадиной. Такое название оно получило из-за его близости к одноимённым островам. Эта таинственная пропасть на дне морском имеет в себе самую глубокую точку, которую называют бездной Челленджера.
+        Это одно из самых загадочных и неисследованных мест нашей планеты. Так что же нашли учёные на его дне? https://kulturologia.ru/blogs/040822/53922/
+        \n\n
+        Как ни парадоксально это выглядит, но о тайнах космоса или горных вершин человечество знает гораздо больше, чем об океанских глубинах. Кое-что учёные могут утверждать точно, а есть вещи в которых они не совсем уверены. Сведения, которые известны о Марианской впадине весьма скудны. Эта траншея простирается в длину примерно на 2550 километров и почти на семь десятков километров в ширину.
+        Имеет она форму, напоминающую серп. На дне её долины и возвышенности разнообразных размеров.
+        \n\n
+    </string>
+    <string name="fourthapp">fourthapp</string>
+</resources>
